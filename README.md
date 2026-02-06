@@ -1,50 +1,136 @@
-# Hi 👋, I'm Ahsaankhan | Full Stack Web Developer 🚀
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ahsaankhan-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Ahsaankhan Profile Views" />
-</p>
+# Hi, I'm Ahsaan Khan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" alt="hello" />
+### Full-Stack Web Developer | JavaScript, TypeScript, React | API-First Web Apps
 
-**Expert Web Developer | JavaScript, React, & Next.js Specialist 💻**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+React;Performance+Focused+%7C+Clean+Code;APIs+%7C+Auth+%7C+Databases;Dashboards+%7C+Admin+Panels+%7C+3D+Web" alt="Typing SVG" />
 
-Passionate about building high-performance web applications and seamless user experiences. I specialize in the modern web ecosystem, focusing on scalable architecture and clean code.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="34" alt="sparkles" />
 
----
-
-### 🚀 About Me (The Developer)
-- 🔭 **Current Projects:** Developing enterprise-level applications using **Next.js 14** and **Tailwind CSS**.
-- 🌱 **Skill Enhancement:** Deep diving into **Node.js Backend**, **PostgreSQL**, and **System Design**.
-- 👯 **Open Source:** Looking to contribute to high-impact JavaScript and TypeScript projects.
-- 💬 **Expertise:** Ask me about **Next.js Server Components**, **SEO for Web**, and **React State Management**.
-- 📫 **Contact:** Drop a line at [ahsaankhan.dev@gmail.com](mailto:ahsaankhan.dev@gmail.com)
-- ⚡ **Fun Fact:** I believe every problem can be solved with enough caffeine and a good documentation.
+</div>
 
 ---
 
-### 🌐 Social Links (Connect with me)
-[![Twitter - Ahsaankhan](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn - Ahsaankhan](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![YouTube - Ahsaankhan](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourusername)
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="220">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="34" alt="gear" /><br/>
+<b>API-first</b><br/>
+Stable routes, clear contracts.
+</td>
+<td align="center" width="220">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="34" alt="lock" /><br/>
+<b>Auth</b><br/>
+Secure flows, clean sessions.
+</td>
+<td align="center" width="220">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="34" alt="docs" /><br/>
+<b>DX</b><br/>
+Readable code, easy upgrades.
+</td>
+<td align="center" width="220">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="34" alt="rocket" /><br/>
+<b>Delivery</b><br/>
+Fast shipping, fewer surprises.
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### 🛠 Tech Stack & Skills
-
-#### Frontend Architecture
-![HTML5 - Expert](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 - Expert](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript - Specialist](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript - Specialist](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React - Expert](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js - Specialist](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" alt="about" /> About Me
+I build functional web apps with clean UI and reliable backend workflows.  
+I focus on scalable APIs, authentication, database design, and steady delivery.
 
 ---
 
-### 📊 GitHub Stats
-![Ahsaankhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahsaankhan-dev&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsaankhan-dev&layout=compact&theme=tokyonight)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="26" alt="what-i-build" /> What I Build
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" alt="gear" /> Dashboards, admin panels, data-driven UIs  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" width="20" alt="api" /> REST APIs, auth flows, integrations  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="20" alt="db" /> Database-backed systems with clear structure  
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" alt="3d" /> Interactive 3D web experiences (when needed)
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="26" alt="working" /> Currently Working On
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="20" alt="star" /> Full-stack projects at **eTechViral**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="20" alt="lock" /> API design, auth, maintainable architecture
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" alt="gear" /> Performance, code clarity, better DX
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" alt="sparkles" /> Open-source work and consistent learning
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="26" alt="contact" /> Contact
+- **Email:** [mrniazali132@gmail.com](mailto:mrniazali132@gmail.com)  
+- **Phone:** [+92 320 8050617](https://wa.me/923208050617)
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="22" alt="connect" /> Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadNiazAli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-niaz-ali-109167397/)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Inevitable_Meal_184/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923208050617)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mrniazali132)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32170082/muhammad-niaz-ali)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089496256834)
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="26" alt="tech" /> Tech Stack (Badges link to official sites)
+
+<div align="center">
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)](https://react.dev/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)](https://tailwindcss.com/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+
+<br/>
+
+[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=ffffff)](https://www.framer.com/motion/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
+
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="26" alt="stats" /> GitHub Stats
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadNiazAli&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNiazAli&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNiazAli&theme=dark&hide_border=true&background=0D1117)
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="26" alt="activity" /> Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNiazAli&theme=github-dark&hide_border=true&bg_color=0D1117)
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="26" alt="trophies" /> GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadNiazAli&theme=onedark&no-frame=true&margin-w=10&margin-h=10&row=2&column=4)
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="26" alt="collab" /> Collaboration
+I’m open to full-stack work, API development, dashboards, and database-backed systems.  
+I like clear scope, clean delivery, and code that stays easy to maintain.
+
+**Best ways to reach me:**
+1. **WhatsApp:** [+92 320 8050617](https://wa.me/923208050617)  
+2. **Email:** [ahsaankhan.div@gmail.com](mailto:mrniazali132@gmail.com)  
+3. **LinkedIn:** [ahsaanKhan]()
