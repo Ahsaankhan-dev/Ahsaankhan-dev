@@ -65,19 +65,13 @@ I focus on scalable APIs, authentication, database design, and steady delivery.
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="26" alt="contact" /> Contact
-- **Email:** [mrniazali132@gmail.com](mailto:mrniazali132@gmail.com)  
-- **Phone:** [+92 320 8050617](https://wa.me/923208050617)
+- **Email:** [ahsaankhan.dev@gmail.com](mailto:ahsaankhan.dev@gmail.com)  
+- **Phone:** [+92 308 5856344](https://wa.me/923085856344)
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="22" alt="connect" /> Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadNiazAli)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-niaz-ali-109167397/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Inevitable_Meal_184/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923208050617)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mrniazali132)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32170082/muhammad-niaz-ali)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089496256834)
+
 
 ---
 
@@ -116,13 +110,9 @@ I focus on scalable APIs, authentication, database design, and steady delivery.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="26" alt="activity" /> Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadNiazAli&theme=github-dark&hide_border=true&bg_color=0D1117)
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="26" alt="trophies" /> GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadNiazAli&theme=onedark&no-frame=true&margin-w=10&margin-h=10&row=2&column=4)
 
 ---
 
@@ -131,6 +121,6 @@ I’m open to full-stack work, API development, dashboards, and database-backed 
 I like clear scope, clean delivery, and code that stays easy to maintain.
 
 **Best ways to reach me:**
-1. **WhatsApp:** [+92 320 8050617](https://wa.me/923208050617)  
-2. **Email:** [ahsaankhan.div@gmail.com](mailto:mrniazali132@gmail.com)  
+1. **WhatsApp:** [+92 320 8050617](https://wa.me/923085856344)  
+2. **Email:** [ahsaankhan.div@gmail.com](mailto:ahsaankhan.dev@gmail.com)  
 3. **LinkedIn:** [ahsaanKhan]()
