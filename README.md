@@ -1,126 +1,69 @@
 <div align="center">
 
-# Hi, I'm Ahsaan Khan <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" alt="hello" />
-### Full-Stack Web Developer | JavaScript, TypeScript, React | API-First Web Apps
+<h1>Ahsaan Khan</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=900&color=58A6FF&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;JavaScript+%7C+TypeScript+%7C+React;Performance+Focused+%7C+Clean+Code;APIs+%7C+Auth+%7C+Databases;Dashboards+%7C+Admin+Panels+%7C+3D+Web" alt="Typing SVG" />
+<b>Full-Stack Web Developer</b>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="34" alt="sparkles" />
-
-</div>
-
----
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="220">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="34" alt="gear" /><br/>
-<b>API-first</b><br/>
-Stable routes, clear contracts.
-</td>
-<td align="center" width="220">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="34" alt="lock" /><br/>
-<b>Auth</b><br/>
-Secure flows, clean sessions.
-</td>
-<td align="center" width="220">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="34" alt="docs" /><br/>
-<b>DX</b><br/>
-Readable code, easy upgrades.
-</td>
-<td align="center" width="220">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="34" alt="rocket" /><br/>
-<b>Delivery</b><br/>
-Fast shipping, fewer surprises.
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" alt="about" /> About Me
-I build functional web apps with clean UI and reliable backend workflows.  
-I focus on scalable APIs, authentication, database design, and steady delivery.
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="26" alt="what-i-build" /> What I Build
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" alt="gear" /> Dashboards, admin panels, data-driven UIs  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20with%20Curl.png" width="20" alt="api" /> REST APIs, auth flows, integrations  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="20" alt="db" /> Database-backed systems with clear structure  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" alt="3d" /> Interactive 3D web experiences (when needed)
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="26" alt="working" /> Currently Working On
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="20" alt="star" /> Full-stack projects at **eTechViral**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="20" alt="lock" /> API design, auth, maintainable architecture
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" alt="gear" /> Performance, code clarity, better DX
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="20" alt="sparkles" /> Open-source work and consistent learning
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="26" alt="contact" /> Contact
-- **Email:** [ahsaankhan.dev@gmail.com](mailto:ahsaankhan.dev@gmail.com)  
-- **Phone:** [+92 308 5856344](https://wa.me/923085856344)
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="22" alt="connect" /> Connect With Me
-
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="26" alt="tech" /> Tech Stack (Badges link to official sites)
-
-<div align="center">
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)](https://react.dev/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=ffffff)](https://nextjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)](https://tailwindcss.com/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1000&color=7C6BC4&center=true&vCenter=true&width=560&height=40&lines=Hi%2C+I'm+Ahsaan+%F0%9F%91%8B;I+build+clean+and+friendly+web+apps+%F0%9F%8C%B8;Next.js+%C2%B7+React+%C2%B7+Node.js+%C2%B7+MongoDB;Currently+learning+Redis+and+real-time+systems+%E2%9A%A1" alt="Typing intro" />
 
 <br/>
 
-[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=ffffff)](https://www.framer.com/motion/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=ffffff)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=ffffff)](https://www.mongodb.com/)
+### 🌷 A little about me
 
+<p align="center">
+<i>I like building web apps that feel simple to use and are easy to maintain.<br/>
+Clear APIs, secure sign-in, tidy databases, and interfaces that look good too.</i>
+</p>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center" width="180">
+      <br/>🌱<br/><b>Learning</b><br/><sub>Redis<br/>WebSocket rooms</sub><br/><br/>
+    </td>
+    <td align="center" width="180">
+      <br/>🔨<br/><b>Building</b><br/><sub>Live cursors<br/>&amp; presence</sub><br/><br/>
+    </td>
+    <td align="center" width="180">
+      <br/>🎯<br/><b>Focus</b><br/><sub>Clean APIs<br/>Secure auth</sub><br/><br/>
+    </td>
+    <td align="center" width="180">
+      <br/>💬<br/><b>Ask me about</b><br/><sub>Next.js · React<br/>APIs · Auth</sub><br/><br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🎀 What I make
+
+<p align="center">
+📊 <b>Dashboards and admin panels</b> · clean, data-driven screens<br/><br/>
+🔐 <b>REST APIs and auth</b> · stable routes, secure sessions<br/><br/>
+🗂️ <b>Database-backed apps</b> · clear structure that is easy to grow<br/><br/>
+⚡ <b>Real-time features</b> · live presence and cursors with WebSockets<br/><br/>
+✨ <b>Interactive 3D web</b> · when the project calls for it
+</p>
+
+<br/>
+
+### 🧁 My toolbox
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,redis,git,linux&perline=11" alt="Tech stack" />
+
+<sub>Redis is the newest one in the box, still learning it 🌱</sub>
+
+<br/><br/>
+
+### 💌 Let's work together
+
+<p align="center">I like clear scope, clean delivery and code that stays easy to maintain.</p>
+
+<a href="mailto:ahsaankhan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<!-- <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-a5b4fc?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
+
+<br/>
 
 </div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="26" alt="stats" /> GitHub Stats
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadNiazAli&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadNiazAli&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&langs_count=8)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadNiazAli&theme=dark&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-
----
-
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="26" alt="collab" /> Collaboration
-I’m open to full-stack work, API development, dashboards, and database-backed systems.  
-I like clear scope, clean delivery, and code that stays easy to maintain.
-
-**Best ways to reach me:**
-1. **WhatsApp:** [+92 320 8050617](https://wa.me/923085856344)  
-2. **Email:** [ahsaankhan.div@gmail.com](mailto:ahsaankhan.dev@gmail.com)  
-3. **LinkedIn:** [ahsaanKhan]()
